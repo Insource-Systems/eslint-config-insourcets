@@ -4,7 +4,7 @@ module.exports = {
     ecmaVersion: 'latest',
   },
   plugins: [
-    '@typescript/eslint-plugin'
+    '@typescript-eslint/eslint-plugin'
   ],
   rules: {
     // The rules below are listed in the order they appear on the
